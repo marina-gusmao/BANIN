@@ -1,6 +1,7 @@
 
 # os seguintes exercícios não valem nota mas definitivamente
 # preecisam ser feitos
+# ok parece que é pra fazer e entregar do 6 ao 10, vambora
 
 #ex 1
 
