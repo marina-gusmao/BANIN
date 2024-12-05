@@ -1,7 +1,6 @@
 
 # os seguintes exercícios não valem nota mas definitivamente
 # preecisam ser feitos
-# ok parece que é pra fazer e entregar do 6 ao 10, vambora
 
 #ex 1
 
@@ -9,7 +8,7 @@ n = int(input("Insira um número inteiro "))
 t = 0
 while t < 10:
     t += 1
-    print(f'{n} x {t} =', n*t)
+    print(f'{n} x   {t} =', n*t)
 
 #ex 2
 
